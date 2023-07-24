@@ -13,20 +13,12 @@ imperdible! sin dudas el mejor curso y más completo para aprender Java en Udemy
 
 - [Sección 02: Conceptos generales para empezar con Angular y TypeScript](src/Conceptos/Variables.md)
 
-- [Sección 03: Tipo String: Cadenas](src/Conceptos/String.md)
+- [Sección 03: Bases de TypeScript](src/Conceptos/String.md)
 
-- [Sección 04: Operadores](src/Conceptos/Operadores.md)
-
-- [Sección 05: Flujos de Control](src/Conceptos/FlujosDeControl.md)
-
-- [Sección 06: Clases Wrapper](src/Conceptos/Wrapper.md)
-
-- [Sección 07: Valor v/s referencia](src/Conceptos/ValorReferencia.md)
-
-- [Sección 08: Las clases Date y Calendar](src/Conceptos/Wrapper.md)
 
 ---
 
+
 <div align="center">
-<img src="src/img/100.gif">
+<img src="src/img/sabin.gif" width="100%">
 </div>
